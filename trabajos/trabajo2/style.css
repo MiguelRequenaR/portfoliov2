@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    width: 1300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(168, 200, 178);
+  }
+  
+  .circle {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(92, 172, 92);
+    position: relative;
+    border-radius: 50%;
+    animation: movimiento 2s linear infinite;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+  }
+  
+  .button {
+    margin: 5px;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(74, 151, 83);
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+  }
+  @keyframes movimiento {
+    0%{
+        left: calc(-550px);
+    }
+    100%{
+        left: calc(550px);
+    }
+  }

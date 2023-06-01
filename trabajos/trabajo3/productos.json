@@ -1,0 +1,39 @@
+[
+    {
+      "foto": "https://www.infotec.com.pe/38153-medium_default/memoria-ram-hp-v8-series-8gb-3200mhz-ddr4-rgb-7eh85aa-abm.jpg",
+      "nombre": "Memoria RAM HP V8",
+      "descripcion": "Memoria RAM 8GB 3200 MHZ, DDR4 RGB (7EH85AA-ABM)-HP",
+      "precio": 139.99
+    },
+    {
+      "foto": "https://http2.mlstatic.com/D_NQ_NP_781382-MLA46221874645_052021-O.jpg",
+      "nombre": "Disco Sólido Kingston",
+      "descripcion": "SA400S37, 480GB NEGRO, KINGSTON",
+      "precio": 120.99
+    },
+    {
+        "foto": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_117046014_1652711_1?wid=800&hei=800&qlt=70",
+        "nombre": "Monitor Teros TE-3199",
+        "descripcion": "27 Pulgadas, IPS, 75 Hz, 1920x1080, FULL HD HDMI VGA, TEROS GAMINGA",
+        "precio": 590.99
+      },
+      {
+        "foto": "https://www.kobyinversiones.com/wp-content/uploads/2021/10/Teclado-Redragon-DRAGONBORN-English-K630W-RGB-WHITE-RED-SWITCH-1.jpg",
+        "nombre": "Teclado Redragon",
+        "descripcion": "Teclado Gamer Redragon K630 Dragonborn 60% RGB",
+        "precio": 199.59
+      },
+      {
+        "foto": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F520%2FELECTROHOGAR%2FGM-203-FRONT_211432387836_2.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=3ce8769e6a26fc3a62a79223729df602",
+        "nombre": "Mouse Gamer",
+        "descripcion": "Mouse Xtrike ME GM-203 2400 DPI RGB 6 BOTONES",
+        "precio": 80.99
+      },
+      {
+        "foto": "https://virtualbusinesscusco.com/wp-content/uploads/2021/02/JUEGOS-ROG-STRIX-Z490-E.jpg",
+        "nombre": "Placa Madre",
+        "descripcion": "Placa Asus Rog Strix Z490-E Gaming",
+        "precio": 1399.99
+      }
+  ]
+  

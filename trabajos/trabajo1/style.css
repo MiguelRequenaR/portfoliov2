@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.boton1{
+    margin-top: 110px;
+}
+
+.card7 {
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+.card-headerr {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background-color: #f8f9fa;
+  }
+  
+.card-headerr h5 {
+    margin: 0 10px 0 0;
+  }
+  
+.card-headerr hr {
+    margin: 0;
+    flex-grow: 1;
+    border-top: 1px solid #afbdca;
+  }
+  
+.card-bodyy {
+    padding: 20px;
+  }
+  
+.card-footerr {
+    background-color: transparent;
+  }
+  
+.card-footerr button {
+    margin: 10px;
+    padding: 5px 15px;
+    border: none;
+    background-color: transparent;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+.card-footerr button:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+
+  
+  
+.formulario {
+    background-color: #007bff; /* Establece el fondo azul */
+    color: #fff; /* Establece el color de texto a blanco */
+    padding: 50px; /* Agrega un espacio interno alrededor del formulario */
+  }
+.tarjetas {
+    background-color: #fff; /* Establece el fondo blanco */
+    color: #000; /* Establece el color de texto a negro */
+    padding: 50px; /* Agrega un espacio interno alrededor de las tarjetas */
+  }
+    
